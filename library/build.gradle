@@ -29,10 +29,10 @@ dependencies {
 }
 
 publish {
-    userOrg = 'yavski'
-    groupId = 'io.github.yavski'
+    userOrg = 'krs'
+    groupId = 'io.github.krs'
     artifactId = 'fab-speed-dial'
-    publishVersion = '1.0.7'
+    publishVersion = '1.0.8'
 }
 
 // apply from: './maven.gradle'
