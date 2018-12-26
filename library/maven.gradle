@@ -1,6 +1,6 @@
 apply plugin: 'maven-publish'
 
-group = 'io.github.krs'
+group = 'io.github.yavski'
 version = android.defaultConfig.versionName
 
 publishing {
