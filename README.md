@@ -42,7 +42,7 @@ dependencies {
     android:layout_height="match_parent"
     android:padding="16dp">
 
-    <io.github.yavski.fabspeeddial.FabSpeedDial
+    <io.github.krs.fabspeedmenu.FabSpeedDial
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="bottom|end"
